@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorPrimary">#6240CB</color>
+    <color name="colorPrimaryDark">#48149A</color>
+    <color name="colorAccent">#8873CC</color>
+
+    <color name="color_8d58e6">#8d58e6</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_faa224">#faa224</color>
+    <color name="color_48149a">#48149a</color>
+    <color name="color_purple1">#48149A</color>
+    <color name="color_purple2">#6240CB</color>
+    <color name="color_purple3">#8873CC</color>
+    <color name="color_purple4">#C0B7DC</color>
+    <color name="color_gray1">#343434</color>
+    <color name="color_gray2">#7F7F7F</color>
+    <color name="color_gray3">#BCBCBC</color>
+    <color name="color_gray4">#E1E1E1</color>
+    <color name="color_gray5">#F6F6F6</color>
+    <color name="edittext_hint_white">#E1E1E1</color>
+    <color name="lighting_yellow">#FAA224</color>
+    <color name="edittext_hint">#A0A0A0</color>
+    <color name="transparent">#00000000</color>
+    <color name="medium_black">#343434</color> <!-- 252525-->
+    <color name="underline">#F1F2F7</color>
+    <color name="logout">#F54062</color>
+    <color name="green">#40CB4E</color>
+    <color name="number_picker_line">#C7BFE0</color>
+    <color name="popup_bg">#9c000000</color>
+    <color name="list_item_background">#AACCCCCC</color>
+    <color name="app_color">#8EAE3C</color>
+    <color name="off_white">#FFFDFD</color>
+</resources>
